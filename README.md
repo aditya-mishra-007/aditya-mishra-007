@@ -1,10 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Aditya Mishra
-
-A developer 🚀 refining my DSA skills ⚡ and evolving through continuous learning.
-
-
-
+Hi 👋, I'm Aditya Mishra <br> A developer 🚀 refining my DSA skills ⚡ and evolving through continuous learning. <br> <br>
 🔭 I’m planning to build  : A smart, cloud-powered portfolio ecosystem with automation, AI features, and scalable backend services.<br><br>🤝 I’m looking to collaborate on : Cloud, ML, and full-stack projects that involve real problem-solving and modern architectures.<br><br>👐 I’m looking for help with : Mastering advanced AWS design patterns and improving deployment workflows.<br><br>🌱 I’m currently learning : AWS Cloud, DSA, ML basics, and full-stack development.<br><br>💬 Ask me about : AWS, DSA, ML, portfolio building, and productivity setups.<br><br>⚡ Fun fact : I switch between DSA, AWS, ML, and content ideas faster than most people switch tabs. 😄
 
 ## 🏆 GitHub Trophies
